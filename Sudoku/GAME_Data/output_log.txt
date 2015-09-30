@@ -1,0 +1,100 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 7700 Series
+    Vendor:   ATI
+    VRAM:     1002 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+desktop: 1920x1080 30Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Portfolio\New folder (3)\AI\Sudoku\EXE\GAME_Data\Managed\System.Core.dll (this message is harmless)
+,,,,9,,,7,,,,,8,,  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+7,,,3,,,,,,,,,,,,  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+,,5,,,,,6,,,,,,,,  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+,,7,,,,,5,,,4,,,,  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+5,,,6,,,,,7,,,,,,  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+,,1,,,,,,,6,,,,,8  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+,,,,,,,,4,,,,,,,7  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+2,,,,,8,,,3,1,,,,  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+,,4,,,,,,,,,,,,,2  after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+
+ after
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Spawner:setup() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:68)
+Spawner:Start() (at C:\Portfolio\New folder (3)\AI\Sudoku\Assets\Scripts\Spawner.cs:41)
+ 
+(Filename: C:/Portfolio/New folder (3)/AI/Sudoku/Assets/Scripts/Spawner.cs Line: 68)
+

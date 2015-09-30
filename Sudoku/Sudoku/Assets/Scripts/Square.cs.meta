@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fc561d2a1a7584c4d818e3f45d0123ec
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - oneMat: {fileID: 2100000, guid: 8e7e079171cb3da4da53a9cff9dc47d6, type: 2}
+  - twoMat: {fileID: 2100000, guid: cb2da4a1268f17a41b9d028524bd1c2a, type: 2}
+  - threeMat: {fileID: 2100000, guid: 367c8d005ac3f4045b5d6f37436f1a67, type: 2}
+  - fourMat: {fileID: 2100000, guid: 9627f73df340e334f8c9721d38c40edf, type: 2}
+  - fiveMat: {fileID: 2100000, guid: c79ec06efeadf0b4fafc819b99db5a1b, type: 2}
+  - sixMat: {fileID: 2100000, guid: 8f1f91ed009a77946b53b5e9563966a6, type: 2}
+  - sevenMat: {fileID: 2100000, guid: fb31743b2ba64904cbe5d6c7fc85b0c9, type: 2}
+  - eightMat: {fileID: 2100000, guid: 37d6ee86201a6ce46b141c2a9a239fb6, type: 2}
+  - nineMat: {fileID: 2100000, guid: 13ed46b52d3cc9149aa764823ba2b8f2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
